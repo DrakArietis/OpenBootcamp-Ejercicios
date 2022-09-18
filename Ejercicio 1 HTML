@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+	</head>
+	<body>
+		<!-- Este es mi primer comentario de dos líneas.
+		Aprendiendo a documentar mi código con OpenBootcamp. -->
+		<div>
+			<h4>Videos de Youtube favoritos</h4>
+			<ul>
+				<li><a href="https://www.youtube.com/watch?v=VEizKmZlUAw&list=LL&index=5&ab_channel=wardruna">Wardruna - Lyfjaberg (Healing-mountain)</a></li>
+				<li><a href="https://www.youtube.com/watch?v=LatorN4P9aA&list=LL&index=7&ab_channel=journeyVEVO">Journey - Separate Ways (Worlds Apart)</a></li>
+				<li><a href="https://www.youtube.com/watch?v=tG7fk_DUz5g&list=LL&index=15&ab_channel=miracleofsound">VALHALLA CALLING by Miracle Of Sound ft. Peyton Parrish (Assassin's Creed)</a></li>
+			</ul>
+		</div>
+	</body>
+</html>
